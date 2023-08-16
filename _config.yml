@@ -9,7 +9,7 @@ description: 江苏大学 | 车辆工程 | SLAM
 keywords: "VSLAM IMU LIDAR GNSS INSS"
 author: 杨东晓
 language: zh-CN
-timezone:
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
